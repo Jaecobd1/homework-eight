@@ -21,10 +21,12 @@ a {
     font-family: sans-serif;
 }
 
-h1 {
+h1,
+h2 {
     display: flex;
     justify-content: center;
     margin: 10px;
+    text-transform: uppercase;
 }
 
 p {
